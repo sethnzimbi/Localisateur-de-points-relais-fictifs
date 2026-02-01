@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LocalisateurPointRelaisConsole/LocalisateurPointRelaisConsole.vcxproj" Id="9692e636-0d0b-4f99-9560-32693af8c08f" />
+</Solution>
