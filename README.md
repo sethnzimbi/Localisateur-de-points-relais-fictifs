@@ -1,4 +1,4 @@
-Ce programme est un localisateur de points relais fictifs ayant déjà des valeurs prédéfinis. 
+Ce programme est un localisateur de points relais fictifs ayant déjà des valeurs prédéfinis (pour les points relais). 
 
 1. Éxécuter le programme.
 2. Indiquer les coordonnées (longitude, latitude).
